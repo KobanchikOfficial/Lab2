@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-namespace CalculatorApp
+﻿namespace CalculatorApp
 {
     class Program
     {
@@ -20,11 +15,6 @@ namespace CalculatorApp
             Console.WriteLine("Enter 2nd input");
             int input_2 = Convert.ToInt32(Console.ReadLine());
             int result = 0;
-
-            //---------------------------------
-            input_1 = 10;
-            input_2 = 4;
-            //---------------------------------
 
             switch (action)
             {

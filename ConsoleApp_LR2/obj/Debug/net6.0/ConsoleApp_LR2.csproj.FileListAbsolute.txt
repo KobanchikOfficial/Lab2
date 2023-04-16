@@ -13,3 +13,18 @@ C:\Users\Daniil\Desktop\YSTU\САБ ПО\LR 2\ConsoleApp_LR2\obj\Debug\net6.0\re
 C:\Users\Daniil\Desktop\YSTU\САБ ПО\LR 2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.pdb
 C:\Users\Daniil\Desktop\YSTU\САБ ПО\LR 2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.genruntimeconfig.cache
 C:\Users\Daniil\Desktop\YSTU\САБ ПО\LR 2\ConsoleApp_LR2\obj\Debug\net6.0\ref\ConsoleApp_LR2.dll
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\bin\Debug\net6.0\ConsoleApp_LR2.exe
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\bin\Debug\net6.0\ConsoleApp_LR2.deps.json
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\bin\Debug\net6.0\ConsoleApp_LR2.runtimeconfig.json
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\bin\Debug\net6.0\ConsoleApp_LR2.dll
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\bin\Debug\net6.0\ConsoleApp_LR2.pdb
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.csproj.AssemblyReference.cache
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.AssemblyInfoInputs.cache
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.AssemblyInfo.cs
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.csproj.CoreCompileInputs.cache
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.dll
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\refint\ConsoleApp_LR2.dll
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.pdb
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ConsoleApp_LR2.genruntimeconfig.cache
+C:\ystuRrepos\Lab2\ConsoleApp_LR2\obj\Debug\net6.0\ref\ConsoleApp_LR2.dll
