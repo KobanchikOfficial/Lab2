@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniil\\Desktop\\YSTU\\САБ ПО\\LR 2\\ConsoleApp_LR2\\ConsoleApp_LR2.csproj",
+      "projectUniqueName": "C:\\ystuRrepos\\Lab2\\ConsoleApp_LR2\\ConsoleApp_LR2.csproj",
       "projectName": "ConsoleApp_LR2",
-      "projectPath": "C:\\Users\\Daniil\\Desktop\\YSTU\\САБ ПО\\LR 2\\ConsoleApp_LR2\\ConsoleApp_LR2.csproj",
+      "projectPath": "C:\\ystuRrepos\\Lab2\\ConsoleApp_LR2\\ConsoleApp_LR2.csproj",
       "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniil\\Desktop\\YSTU\\САБ ПО\\LR 2\\ConsoleApp_LR2\\obj\\",
+      "outputPath": "C:\\ystuRrepos\\Lab2\\ConsoleApp_LR2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
